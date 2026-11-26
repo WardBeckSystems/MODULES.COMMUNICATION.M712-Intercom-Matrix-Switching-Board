@@ -39,7 +39,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Title block:** (302, 7)–(418, 32) mm: TSSMOD CKD] · USEDAOM · MAtL · 735 · WBS WAAD-BeCK byeteMB · 1395LRc · DRA: · GEB · FINISH · DATE JAN73 · M72+ · CKD · SCALE · CROSSPOiNT · TOLS · 712
 - **Wiring (first pass):** 36 connected wire groups from 138 runs, 2 dotted junctions; labelled ends: 36 mm → TSSMOD, 735, 1395LRc; 34 mm → 61o2, 2N+360; 32 mm → Rioi, 22k; 15 mm → 09, TV; 12 mm → CLO SURE To
 
-Every curve, box, word and wire group: [1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB (traced).json](../SCHEMATICS/1973%20-%20712-02-008%20-%20M724%20CROSSPOINT%20-%20DRN%20GEB%20(traced).json) (the CAD file: `1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB (traced).json](../SCHEMATICS/1973%20-%20712-02-008%20-%20M724%20CROSSPOINT%20-%20DRN%20GEB%20%28traced%29.json) (the CAD file: `1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB (traced).dxf`).
 
 ## Full text
 

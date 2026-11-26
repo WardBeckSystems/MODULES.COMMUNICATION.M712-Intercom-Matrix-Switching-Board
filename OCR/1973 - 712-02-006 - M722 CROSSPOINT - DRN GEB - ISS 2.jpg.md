@@ -35,7 +35,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Title block:** (345, 6)–(423, 28) mm: WBS · WARD BeCk BYBTEME LTD · M722 · CRoSS Point · SCaLE
 - **Wiring (first pass):** 17 connected wire groups from 173 runs; labelled ends: 305 mm → USED, WBS; 35 mm → USED, WBS; 11 mm → RiO; 11 mm → '/35; 11 mm → RiO, 276
 
-Every curve, box, word and wire group: [1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20712-02-006%20-%20M722%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20712-02-006%20-%20M722%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

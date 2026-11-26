@@ -39,7 +39,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Words (OCR):** 50 in 47 lines: Suppi · SUMMING · ME · M729 · COMPONEnT LAYOUT · SYSTEM · APPLICATION · Pioi · R0z · Ros · Lo · 242
 - **Wiring (first pass):** 51 connected wire groups from 410 runs; labelled ends: 568 mm → DATE; 67 mm → Ros, 242; 33 mm → 5.Gv, 14752, Rios; 27 mm → Ros, Rio7, 22k; 27 mm → Pioi
 
-Every curve, box, word and wire group: [1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1974%20-%20712-02-009%20-%20M725%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1974%20-%20712-02-009%20-%20M725%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 

@@ -41,7 +41,7 @@ Faint crosspoint schematic and component layout strip, title block at bottom rig
 - **Title block:** (285, 7)–(410, 31) mm: ISSLMOD CKDL · USON · MatL · WBS WAAD- BeCk · Rc · 1398 · DRN: GEBA · M72e · FINISH · DATE JAN73 · CKD · CRos5 PoiNT · SCALE · TOLs Kng · 742 02 012
 - **Wiring (first pass):** 45 connected wire groups from 301 runs; labelled ends: 65 mm → Riog, 2M2; 31 mm → Riol, 22k; 31 mm → Rio3, iook, Riog, 2M2; 20 mm → Rio8, iook, Rio7; 20 mm → Rios, iook, Riio
 
-Every curve, box, word and wire group: [1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-012%20-%20M728%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-012%20-%20M728%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 

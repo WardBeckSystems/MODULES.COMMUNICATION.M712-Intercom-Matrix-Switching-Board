@@ -36,7 +36,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Title block:** (352, 5)–(432, 37) mm: ISSUE |DATE · REVISION · WBS WARD-BECK · SYSTEMS · DRR AM · ENG AM · TEST Fixture · M7IzA/T · CKd: · SCHEMATIC · SCALE · 712-02-104 · ISSUF
 - **Wiring (first pass):** 70 connected wire groups from 397 runs; labelled ends: 299 mm → SENJSE, Pz, AwleRDtZEV, JAWa BLK; 232 mm → 72615, E8s; 49 mm → TaLLY, AwleRDtZEV, JAWa BLK; 42 mm → TaLLY, AwleRDtZEV, JAWa BLK, chaEDS; 32 mm → M632 POWER SuPPLY
 
-Every curve, box, word and wire group: [19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20712-02-104%20-%20M712A%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20712-02-104%20-%20M712A%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
 
 ## Full text
 

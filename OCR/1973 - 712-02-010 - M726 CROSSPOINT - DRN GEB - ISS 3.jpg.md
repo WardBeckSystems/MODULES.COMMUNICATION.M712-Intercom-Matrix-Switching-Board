@@ -39,7 +39,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Title block:** (348, 7)–(428, 30) mm: WBS WAAD- Beck bybtema LTD · M72g · ma JAN 5 · CROSSPOINT · ISCALE · 0io
 - **Wiring (first pass):** 33 connected wire groups from 255 runs; labelled ends: 333 mm → WBS, @Fc, ma, ISCALE; 83 mm → M726; 30 mm → 2M2, Riot; 16 mm → 7107, 227; 15 mm → 22k
 
-Every curve, box, word and wire group: [1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-010%20-%20M726%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-010%20-%20M726%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 

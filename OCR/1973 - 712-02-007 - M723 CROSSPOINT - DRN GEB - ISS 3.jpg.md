@@ -38,7 +38,7 @@ Wiki page: [M712](../../../../PAGES/M712.md)
 - **Words (OCR):** 59 in 50 lines: BUS · MIXER · M7i ? · M723 · COMPONENT LAYOUT · M72i · SYSTEM · Rioe · 4-0 · 27436C · APPLICATION · 22k
 - **Wiring (first pass):** 46 connected wire groups from 333 runs; labelled ends: 260 mm → CAUDQ, WBS; 236 mm → MtL, LTDS; 45 mm → Rioe, 22k, 15352; 15 mm → Rios, 2M2, 0 10+; 13 mm → Rioe, 22k
 
-Every curve, box, word and wire group: [1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-007%20-%20M723%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20712-02-007%20-%20M723%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 

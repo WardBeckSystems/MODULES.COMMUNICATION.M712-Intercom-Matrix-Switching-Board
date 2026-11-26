@@ -41,7 +41,7 @@ Diagram showing connection of M712 modules for more than 12 inputs to one output
 - **Title block:** (143, 27)–(378, 77) mm: 2X 27k · ISS MOD [CKD. · USED · ON · MATL · WBS · WARD-BECK BySTEMS · [1432 · DRN · GEB · DATE JAN73 · M7i 2 · FINISH · CASCADE · CKD_ · R2 · SCALE · TOLS · 712 -02
 - **Wiring (first pass):** 103 connected wire groups from 380 runs; labelled ends: 135 mm → 2X 27k, 2x27k; 54 mm → 2,B; 50 mm → 2,B; 46 mm → TOLS; 42 mm → 2,B, 2X 27k
 
-Every curve, box, word and wire group: [1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20712-02-004%20-%20CASCADE%20CONFIGURATION%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20712-02-004%20-%20CASCADE%20CONFIGURATION%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -38,7 +38,7 @@ Crosspoint schematic, component layout and system application sheet, title block
 - **Title block:** (352, 20)–(400, 31) mm: WBS WARD
 - **Wiring (first pass):** 55 connected wire groups from 411 runs; labelled ends: 572 mm → Moplicko; 154 mm → CTD, WBS; 50 mm → 22k, RioI, INJSZ, cRioi; 42 mm → P MC, 22k; 35 mm → BuS5, 0103, ZN4460
 
-Every curve, box, word and wire group: [1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1974%20-%20712-02-013%20-%20M729%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1974%20-%20712-02-013%20-%20M729%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 
