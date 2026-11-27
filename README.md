@@ -1,16 +1,16 @@
-# M712 · Communication
+# M712 Intercom Matrix Switching Board · Communication
 
 Ward-Beck Systems M712, 1972|5. Wiki page: [M712 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M712.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 47 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 18 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 49 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 19 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -49,7 +49,7 @@ _Photographs of the module itself: front, back, inside, racked._
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM" width="240" alt="1972 - M712 - DOC - 712-02-012 - DIRECT SUMMING INPUT.jpg"></a><br><sub>1972|5 · DOC - 712-02-012 - DIRECT SUMMING INPUT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM" width="240" alt="1972 - M712 - DOC - 712-02-012 - DIRECT SUMMING INPUT.jpg"></a><br><sub>1972|5 · DOC - 712-02-012 - DIRECT SUMMING INPUT · <a href="SCHEMATICS/1972%20-%20M712%20-%20DOC%20-%20712-02-012%20-%20DIRECT%20SUMMING%20INPUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1972 - 712-02-003 - PART FULL MUTE CROSS POINT SCHEMATIC - DRN TY - ISS 2.jpg`, `1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2.png`, `1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2.jpg`, `1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB.jpg`, `1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1.jpg`, `1980 - 712-01-002 - INTERCOM MATRIX AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg`, `19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg`
@@ -78,6 +78,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1972 - 712-02-003 - PART FULL MUTE CROSS POINT SCHEMATIC - DRN TY - ISS 2.kicad_sch](KICAD/1972%20-%20712-02-003%20-%20PART%20FULL%20MUTE%20CROSS%20POINT%20SCHEMATIC%20-%20DRN%20TY%20-%20ISS%202.kicad_sch)
+- [1972 - M712 - DOC - 712-02-012 - DIRECT SUMMING INPUT.kicad_sch](KICAD/1972%20-%20M712%20-%20DOC%20-%20712-02-012%20-%20DIRECT%20SUMMING%20INPUT.kicad_sch)
 - [1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2.kicad_sch](KICAD/1973%20-%20712-02-004%20-%20CASCADE%20CONFIGURATION%20-%20DRN%20GEB%20-%20ISS%202.kicad_sch)
 - [1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2.kicad_sch](KICAD/1973%20-%20712-02-006%20-%20M722%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%202.kicad_sch)
 - [1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3.kicad_sch](KICAD/1973%20-%20712-02-007%20-%20M723%20CROSSPOINT%20-%20DRN%20GEB%20-%20ISS%203.kicad_sch)
@@ -90,6 +91,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1980 - 712-01-002 - INTERCOM MATRIX AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.kicad_sch](KICAD/1980%20-%20712-01-002%20-%20INTERCOM%20MATRIX%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202.kicad_sch)
 - [19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.kicad_sch](KICAD/19xx%20-%20712-02-104%20-%20M712A%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201.kicad_sch)
 - [M712.kicad_sym](KICAD/M712.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
