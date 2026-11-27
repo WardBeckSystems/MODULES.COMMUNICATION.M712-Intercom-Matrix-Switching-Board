@@ -1,0 +1,501 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1979 - 712-02-102 - M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES - DRN MRW - ENG MRW - ISS 1.jpg",
+  "module": "M712",
+  "applies_to": [
+    "M712B"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "712-02-102",
+    "title": "M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES",
+    "date": "1979-01",
+    "issue": "1",
+    "drawn": "MRW"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "1-22 opposite A-Z",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "2,B",
+      "signal": "BUS OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "6,F",
+      "signal": "MATRIX INPUT 1",
+      "kind": "in",
+      "port": "MATRIX INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "7,H",
+      "signal": "MATRIX INPUT 2",
+      "kind": "in",
+      "port": "MATRIX INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "8,J",
+      "signal": "MATRIX INPUT 3",
+      "kind": "in",
+      "port": "MATRIX INPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "9,K",
+      "signal": "MATRIX INPUT 4",
+      "kind": "in",
+      "port": "MATRIX INPUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "10,L",
+      "signal": "MATRIX INPUT 5",
+      "kind": "in",
+      "port": "MATRIX INPUT 5",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "11,M",
+      "signal": "MATRIX INPUT 6",
+      "kind": "in",
+      "port": "MATRIX INPUT 6",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "12,N",
+      "signal": "MATRIX INPUT 7",
+      "kind": "in",
+      "port": "MATRIX INPUT 7",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "13,P",
+      "signal": "MATRIX INPUT 8",
+      "kind": "in",
+      "port": "MATRIX INPUT 8",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "14,R",
+      "signal": "MATRIX INPUT 9",
+      "kind": "in",
+      "port": "MATRIX INPUT 9",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "15,S",
+      "signal": "MATRIX INPUT 10",
+      "kind": "in",
+      "port": "MATRIX INPUT 10",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "16,T",
+      "signal": "MATRIX INPUT 11",
+      "kind": "in",
+      "port": "MATRIX INPUT 11",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "17,U",
+      "signal": "MATRIX INPUT 12",
+      "kind": "in",
+      "port": "MATRIX INPUT 12",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "E",
+      "signal": "CROSSPOINT 1 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 1 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "D",
+      "signal": "CROSSPOINT 2 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 2 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "C",
+      "signal": "CROSSPOINT 3 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 3 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "5",
+      "signal": "CROSSPOINT 4 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 4 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "4",
+      "signal": "CROSSPOINT 5 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 5 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "3",
+      "signal": "CROSSPOINT 6 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 6 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": null,
+      "as_drawn": "X",
+      "signal": "CROSSPOINT 7 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 7 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": null,
+      "as_drawn": "W",
+      "signal": "CROSSPOINT 8 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 8 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": null,
+      "as_drawn": "V",
+      "signal": "CROSSPOINT 9 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 9 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "20",
+      "signal": "CROSSPOINT 10 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 10 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "19",
+      "signal": "CROSSPOINT 11 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 11 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "18",
+      "signal": "CROSSPOINT 12 CONTROL",
+      "kind": "control_in",
+      "port": "CROSSPOINT 12 CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "21,Y",
+      "signal": "BUS CASCADE INPUT",
+      "kind": "bus",
+      "port": "BUS CASCADE",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "22 (ground symbol)",
+      "signal": "GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-2"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-6"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-7"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 3",
+      "dir": "in",
+      "pins": {
+        "a": "P1-8"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 4",
+      "dir": "in",
+      "pins": {
+        "a": "P1-9"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 5",
+      "dir": "in",
+      "pins": {
+        "a": "P1-10"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 6",
+      "dir": "in",
+      "pins": {
+        "a": "P1-11"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 7",
+      "dir": "in",
+      "pins": {
+        "a": "P1-12"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 8",
+      "dir": "in",
+      "pins": {
+        "a": "P1-13"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 9",
+      "dir": "in",
+      "pins": {
+        "a": "P1-14"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 10",
+      "dir": "in",
+      "pins": {
+        "a": "P1-15"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 11",
+      "dir": "in",
+      "pins": {
+        "a": "P1-16"
+      }
+    },
+    {
+      "name": "MATRIX INPUT 12",
+      "dir": "in",
+      "pins": {
+        "a": "P1-17"
+      }
+    },
+    {
+      "name": "CROSSPOINT 1 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-E"
+      }
+    },
+    {
+      "name": "CROSSPOINT 2 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-D"
+      }
+    },
+    {
+      "name": "CROSSPOINT 3 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-C"
+      }
+    },
+    {
+      "name": "CROSSPOINT 4 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-5"
+      }
+    },
+    {
+      "name": "CROSSPOINT 5 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-4"
+      }
+    },
+    {
+      "name": "CROSSPOINT 6 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-3"
+      }
+    },
+    {
+      "name": "CROSSPOINT 7 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-X"
+      }
+    },
+    {
+      "name": "CROSSPOINT 8 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-W"
+      }
+    },
+    {
+      "name": "CROSSPOINT 9 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-V"
+      }
+    },
+    {
+      "name": "CROSSPOINT 10 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-20"
+      }
+    },
+    {
+      "name": "CROSSPOINT 11 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-19"
+      }
+    },
+    {
+      "name": "CROSSPOINT 12 CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-18"
+      }
+    },
+    {
+      "name": "BUS CASCADE",
+      "dir": "bus",
+      "pins": {
+        "a": "P1-21"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "The drawing names no connector (P1 used).",
+    "The letter-side mates of pins 1, 20, 19, 18, 22 and of the letter-only controls are not shown, so it is not known whether they are strapped.",
+    "Whether the crosspoint control contacts are active-low closures or voltages is not stated."
+  ],
+  "confidence": "medium",
+  "notes": "System interconnection drawing (size D, DRN MRW 1/79, ENG MRW), not a connector table: M712B pin numbers are read from the labels at each module symbol. Each M712B has 12 lamp-symbol crosspoints: matrix inputs 1-12 on 6,F 7,H 8,J 9,K 10,L 11,M 12,N 13,P 14,R 15,S 16,T 17,U (number and letter given together, i.e. both contacts), each switched by a control line on E, D, C, 5, 4, 3, X, W, V, 20, 19, 18 respectively (control -> input order as drawn left to right). Amplifier output 2,B; +25V on 1; ground 22. Modules cascade: each output feeds the next module's 21,Y through 2 x 27K, the last module's 2,B gives the typical headset output +8dBm nom. Inputs 13 / 14 ... N-11 ... N are looped to other buses; controls form the matrix controls. Also on the sheet (other modules, not recorded as pins here): M701B mic amp (typ. mic input DYN -75 to -45dBm 150 ohm / CARBON -25 to +5dBm 150 ohm on 3,4 and 5; output 8,J via 620 ohm at +8dBm; +25V 1; ground 10; remote DYN/CARBON select K) and M702B output amp (input U,V and T; +32V 13,P; balanced output W,X +8dBm 600 ohm; unbalanced output 21&Y, 22&Z 8 ohm 3W max; part mute 18, mute 19, mute override 20)."
+}
