@@ -13,6 +13,29 @@ Ward-Beck Systems M712, 1972|5. Wiki page: [M712 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M712 - DOC - 7000 series - 006.jpg](MANUALS/19xx%20-%20M712%20-%20DOC%20-%207000%20series%20-%20006.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity (#6dB pre-set control incorporated) |
+| **Frequency response** | 1 0.5dB 5OHz to 10kHz |
+| **Noise** | S/N better than 7 0aB measured from +8dBm |
+| **Total harmonic distortion** | Less than 0.58 measured at +18dBm |
+| **Input** | +8dBm nominal (+18dBm Max.) balanced from direct line or from M703 preamplifier |
+| **Input impedance** | 30k ohm balanced bridging |
+| **Output** | OdBm to +8dBm nominal (+18dBm Max.) |
+| **CROSSPOINT ISOLATION/CUT OFF** | 100dB |
+| **TURN ON/OFF TRANSIENT** | Inaudible |
+| **Power requirements** | 24 volts dc regulated 15mA |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
