@@ -1,6 +1,6 @@
 # M712 Intercom Matrix Switching Board · Communication
 
-Ward-Beck Systems M712, 1972|5. Wiki page: [M712 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M712.html)
+Ward-Beck Systems M712, 1972|5. Wiki page: [M712 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M712-Intercom-Matrix-Switching-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

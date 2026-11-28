@@ -1,5 +1,5 @@
 # 1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1974 (title block date)

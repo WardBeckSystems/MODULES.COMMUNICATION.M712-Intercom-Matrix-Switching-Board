@@ -1,5 +1,5 @@
 # 1972 - 712-02-003 - PART FULL MUTE CROSS POINT SCHEMATIC - DRN TY - ISS 2.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1972 (title block date)

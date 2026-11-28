@@ -1,5 +1,5 @@
 # 1979 - 712-02-102 - M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES - DRN MRW - ENG MRW - ISS 1.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1979 (title block date)

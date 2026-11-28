@@ -1,5 +1,5 @@
 # 1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1973 (title block date)

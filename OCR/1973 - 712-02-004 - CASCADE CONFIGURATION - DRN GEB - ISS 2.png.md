@@ -1,5 +1,5 @@
 # 1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2.png
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1973 (title block date)

@@ -1,5 +1,5 @@
 # 1980 - 712-01-002 - INTERCOM MATRIX AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1980 (title block date)

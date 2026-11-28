@@ -1,5 +1,5 @@
 # 19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1972 - M712 - Crosspoint Mb.jpg
-Wiki page: [M712](../../../../PAGES/M712.md)
+Wiki page: [M712](../)
 
 
 - **Year:** 1972 (module estimate (labelled))
