@@ -4,13 +4,12 @@ Ward-Beck Systems M712, 1972|5. Wiki page: [M712 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 49 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 19 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 18 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -52,13 +51,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1DuNdPww8TxqdH6WQaEE0p_EF-Cq0ljLM" width="240" alt="1972 - M712 - DOC - 712-02-012 - DIRECT SUMMING INPUT.jpg"></a><br><sub>1972|5 · DOC - 712-02-012 - DIRECT SUMMING INPUT · <a href="SCHEMATICS/1972%20-%20M712%20-%20DOC%20-%20712-02-012%20-%20DIRECT%20SUMMING%20INPUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1972 - 712-02-003 - PART FULL MUTE CROSS POINT SCHEMATIC - DRN TY - ISS 2.jpg`, `1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2.png`, `1973 - 712-02-006 - M722 CROSSPOINT - DRN GEB - ISS 2.jpg`, `1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1973 - 712-02-008 - M724 CROSSPOINT - DRN GEB.jpg`, `1973 - 712-02-010 - M726 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1973 - 712-02-012 - M728 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1974 - 712-02-009 - M725 CROSSPOINT - DRN GEB - ISS 3.jpg`, `1974 - 712-02-013 - M729 CROSSPOINT - DRN GEB - ISS 1.jpg`, `1980 - 712-01-002 - INTERCOM MATRIX AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg`, `19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `1979 - 712-02-102 - M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES - DRN MRW - ENG MRW - ISS 1.jpg`
 
 ## Manuals and documents
 
@@ -91,7 +86,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1980 - 712-01-002 - INTERCOM MATRIX AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.kicad_sch](KICAD/1980%20-%20712-01-002%20-%20INTERCOM%20MATRIX%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202.kicad_sch)
 - [19xx - 712-02-104 - M712A T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.kicad_sch](KICAD/19xx%20-%20712-02-104%20-%20M712A%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201.kicad_sch)
 - [M712.kicad_sym](KICAD/M712.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
